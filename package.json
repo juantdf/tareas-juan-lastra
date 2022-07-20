@@ -1,0 +1,19 @@
+{
+  "name": "tareas-juan-lastra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juantdf/tareas-juan-lastra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juantdf/tareas-juan-lastra/issues"
+  },
+  "homepage": "https://github.com/juantdf/tareas-juan-lastra#readme"
+}
